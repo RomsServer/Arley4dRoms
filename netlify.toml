@@ -1,0 +1,3 @@
+[build]
+publish = "path/to/your/build" # Ajusta este valor según tu configuración de GitHub Pages
+functions = "functions"
